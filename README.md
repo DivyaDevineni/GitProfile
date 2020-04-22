@@ -1,10 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-•	A nicer look at your GitHub profile and repo stats
-•	Includes data visualizations of your top languages, starred repositories
-•	Data of your top repos like number of stars, forks and size
-•	Used React Bootstrap as a CSS framework
-•	Used recharts, GitHub Api’s and React
+•	A nicer look at your GitHub profile and repo stats <br />
+•	Includes data visualizations of your top languages, starred repositories <br />
+•	Data of your top repos like number of stars, forks and size <br />
+•	Used React Bootstrap as a CSS framework <br />
+•	Used recharts, GitHub Api’s and React <br />
 
 ## Available Scripts
 
