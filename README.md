@@ -5,6 +5,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 •	Data of your top repos like number of stars, forks and size <br />
 •	Used React Bootstrap as a CSS framework <br />
 •	Used recharts, GitHub Api’s and React <br />
+• Have a look at the app here : https://fierce-journey-60659.herokuapp.com/ <br />
+
 
 ## Available Scripts
 
